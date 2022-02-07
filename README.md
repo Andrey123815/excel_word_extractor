@@ -14,7 +14,7 @@
  
 ## About Repostitory
   
-According to the received excel file (csv, xlsx and others), it converts to word format with a given table structure and formatting.  
+According to the received excel file(.xlsx,.xlsm,.xltx,.xltm), it converts to word format with a given table structure and formatting.  
   
   
 ## Languages
