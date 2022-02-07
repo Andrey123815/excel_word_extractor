@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/diakonov_041)
 [![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/iddiakonov_041)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=27A0D9)](https://twitter.com/ivredomon?t=Y_vpcIiqIlrzdM4LcE3urw&s=09)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100076707275289)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=gitlab&logoColor=1195F5)](https://gitlab.com/Andrey123815)
 [![Stepik](https://img.shields.io/static/v1?style=for-the-badge&message=Stepik&color=000000&logo=Simkl&logoColor=FFFFFF&label=)](https://stepik.org/users/296520383?auth=login)
 <br>
